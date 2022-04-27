@@ -7,6 +7,7 @@
   <title>Galeria</title>
 
   <style>
+
     body {
       background-color: #082243;
     }
